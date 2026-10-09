@@ -268,6 +268,30 @@ $$C_f = \text{Turnover} + \text{Burnout} + \text{Coordination Overhead} + \text{
 
 Full automation is therefore not an "unfair substitution," but the **correction of a systemic anomaly**. Companies will choose AI not merely to save on wages, but to eliminate the infinite managerial and emotional complexity associated with maintaining a biological workforce. Relieved of this unnatural pressure, the human being can return to their true nature: not a cog in an industrial process to be optimized, but a free agent dedicated to personal and social flourishing.
 
+### 2.5 Automation Deflation vs. Monopoly Inflation
+
+The introduction of full-scale automation acts as the most powerful deflationary force ever recorded in economic history. However, systemic analysis reveals that this natural vector clashes with the risk of a new form of value extraction, based on the monopolistic control of the underlying physical infrastructures.
+
+#### 1. The Natural Deflationary Vector of AI
+Replacing biological labor with synthetic cognitive agents and robotic systems drives the marginal cost of production down toward the thermodynamic zero (the pure cost of energy and raw materials).
+
+In a competitive free market, this vertical collapse in production costs translates into a proportional collapse in consumer prices. High-value services—such as personalized medical diagnostics, one-on-one educational tutoring, legal counsel, and engineering design—become scalable at infinitesimal costs. Automation makes abundance structurally cheap and democratic.
+
+#### 2. The Bottleneck and the Inflationary Risk
+The structural threat to the flourishing of a post-work society is not the technology itself, but the concentration of the physical means of compute. While algorithmic models are increasingly becoming *open-weight* (public and free), the infrastructure required to train and run them at scale risks consolidating into a physical oligopoly comprised of:
+
+* **Foundries and Lithography:** The very few global corporations capable of printing advanced sub-nanometer semiconductors.
+* **Hardware Design:** De facto monopolies on accelerator chips (GPUs, NPUs, TPUs) required for tensor compute.
+* **Data Centers and Power Grids:** Cloud providers (*hyperscalers*) securing priority access to national power grids and water supplies for cooling.
+
+If these actors engage in rent-seeking behavior—artificially inflating the prices of hardware or cloud API access—they generate **artificial monopoly inflation**. In this scenario, the immense financial value saved by automating human labor is not passed on to civil society in the form of lower prices; instead, it is entirely absorbed by the holders of "compute capital."
+
+#### 3. Systemic Resolution: Compute as a Public Utility
+To ensure the proper functioning of the post-work economic model and maximize the purchasing power of UBI, society must neutralize this structural bottleneck through two vectors:
+
+1. **Decentralization (Edge-Swarm Paradigm):** As analyzed in Section I, pushing model execution onto citizen-owned hardware breaks dependency on centralized servers, neutralizing the coercive power of hyperscale data centers.
+2. **Infrastructure as a Public Good (*Public Utilities*):** Energy generation networks and primary compute infrastructures must be subjected to the regulatory frameworks of essential goods. Preventing the extraction of monopolistic rents on these resources is vital: in an automated society, access to tensor compute and silicon is as essential for civil functioning as drinking water and highways.
+
 ---
 
 # Section III: The Architecture of UBI and Technological Dividend
