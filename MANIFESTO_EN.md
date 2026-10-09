@@ -94,8 +94,6 @@ $$C \approx 6 \cdot N \cdot D \quad [\text{FLOPs}]$$
 
 To ensure the true democratization of cognitive means of production, the technical architecture must transcend centralized Cloud-based models. This is achieved through two converging pillars: **extreme model compression for consumer hardware** and **decentralized agent-to-agent communication protocols**.
 
----
-
 #### 1. Advanced Quantization Techniques: AWQ and EXL2
 The primary bottleneck in running high-dimensional models locally is not raw compute power (FLOPs), but memory bandwidth and available VRAM/RAM on the end-user device. Next-generation quantization techniques solve this constraint by recalibrating the numerical representation of model weights:
 
