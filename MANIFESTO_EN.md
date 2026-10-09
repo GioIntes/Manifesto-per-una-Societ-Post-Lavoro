@@ -66,8 +66,6 @@ To understand the social and economic impact of AI, one must move past the false
 
 To understand the speed and structural nature of the ongoing transition, it is necessary to formalize the mathematical and physical relationships governing the advancement of synthetic models: **Scaling Laws** and the trajectory of **compute energy efficiency**.
 
----
-
 #### 1. The Scaling Laws of Synthetic Compute
 The learning process of contemporary associative architectures (Transformers and their evolutions) does not follow a random dynamic; it is governed by power-law scaling. The performance of a synthetic system, measured in terms of error reduction or empirical loss $L$, is a deterministic function of three key variables:
 
@@ -122,8 +120,6 @@ Consequently, real scarcity shifts entirely to "physical atoms":
 
 To ensure the true democratization of cognitive means of production, the technical architecture must transcend centralized Cloud-based models. This is achieved through two converging pillars: **extreme model compression for consumer hardware** and **decentralized agent-to-agent communication protocols**.
 
----
-
 #### 1. Advanced Quantization Techniques: AWQ and EXL2
 The primary bottleneck in running high-dimensional models locally is not raw compute power (FLOPs), but memory bandwidth and available VRAM/RAM on the end-user device. Next-generation quantization techniques solve this constraint by recalibrating the numerical representation of model weights:
 
@@ -156,8 +152,6 @@ The integration of millions of local execution nodes gives rise to **Swarm Intel
 ### 1.7 Embodied AI and Robotics: The Convergence of Cognition and Physical Actuation
 
 The impact of automation does not stop at the digital and cognitive domain. The true closing of the loop for a post-work society occurs with **Embodied AI**, namely the integration of foundational models into advanced robotic systems.
-
----
 
 #### 1. From Vision-Language Models (VLM) to Action Models
 Until recently, industrial robotics operated on deterministic logic: machines designed to execute a single repetitive task in highly structured environments. The current discontinuity lies in the transition to **Vision-Language-Action Models (VLAM)**.
