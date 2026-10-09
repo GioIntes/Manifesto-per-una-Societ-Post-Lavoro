@@ -114,8 +114,6 @@ Di conseguenza, la scarsità reale si sposta interamente sugli "atomi fisici":
 
 Per garantire la reale democratizzazione dei mezzi di produzione cognitivi, l'architettura tecnica deve superare il modello centralizzato basato sul Cloud. Ciò è reso possibile da due pilastri convergenti: la **compressione spinta dei modelli per hardware consumer** e i **protocolli di comunicazione decentralizzata tra agenti**.
 
----
-
 #### 1. Tecniche di Quantizzazione Avanzata: AWQ e EXL2
 Il vincolo primario nell'esecuzione locale dei modelli ad alta dimensionalità non è la mera potenza di calcolo (FLOPs), ma la larghezza di banda e la memoria VRAM/RAM disponibile sul dispositivo finale. Le tecniche di quantizzazione di nuova generazione risolvono questo collo di bottiglia ricalibrando la rappresentazione numerica dei pesi:
 
