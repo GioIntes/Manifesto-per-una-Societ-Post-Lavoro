@@ -55,7 +55,6 @@ Per comprendere l'impatto sociale ed economico dell'AI, è necessario superare l
 * **Spostamento della Scarsità dagli "Atomi Cognitivi" agli "Atomi Fisici":** Quando il software, l'analisi e l'intelligenza diventano locali, abbondanti e a costo quasi nullo, la vera scarsità economica si sposta interamente sulle risorse fisiche sottostanti: **energia, silicio/hardware e materie prime**.
 
 ---
-* **Spostamento della Scarsità dagli "Atomi Cognitivi" agli "Atomi Fisici":** Quando il software, l'analisi e l'intelligenza diventano locali, abbondanti e a costo quasi nullo, la vera scarsità economica si sposta interamente sulle risorse fisiche sottostanti: **energia, silicio/hardware e materie prime**.
 
 ### 1.5 Scalabilità della Potenza di Calcolo e Leggi di Scala (*Compute & Scaling Laws*)
 
