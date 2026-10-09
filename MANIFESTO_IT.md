@@ -183,8 +183,6 @@ $$\text{Efficienza Sintetica} = \frac{\text{Output Cognitivo/Fisico}}{\text{Temp
 
 **Conclusione Ingegneristica:** In qualsiasi mercato regolato dalla ricerca dell'efficienza, la sostituzione non è una scelta ideologica o una speculazione: è un'inevitabile ottimizzazione di processo.
 
----
-
 ### 2.2 L'Aporia del "Lavoro di Sussistenza" e il Cortocircuito del Mercato
 Il vero corto circuito del sistema capitalismo-lavoro non è la mancanza di beni, ma la **distruzione della capacità di acquisto**:
 
@@ -193,8 +191,6 @@ Il vero corto circuito del sistema capitalismo-lavoro non è la mancanza di beni
 3. **Il Collasso del Loop:** Se tagli i salari tramite l'automazione, distruggi i consumatori in grado di acquistare i beni prodotti dalle macchine.
 
 Tentare di preservare i posti di lavoro "per legge" o punire l'automazione significa forzare l'adozione di un'inefficienza strutturale, equivalente a vietare l'uso dei trattori in agricoltura per far zappare la terra a mano a milioni di persone.
-
----
 
 ### 2.3 Modellizzazione Dinamica del Collasso Wage-Pool
 
@@ -231,8 +227,6 @@ L'economia classica postula che l'innovazione distrugga vecchi lavori ma ne crei
 Con l'AI generalista e l'Embodied AI, questo monopolio cessa di esistere. Qualsiasi "nuovo lavoro" creato dalla tecnologia (es. gestione di flotte di droni, ottimizzazione di prompt, progettazione di mondi virtuali) sarà intrinsecamente **più facile, veloce ed economico da far eseguire a un agente sintetico** rispetto a un essere umano che deve essere riqualificato da zero. 
 
 Il mercato del libero scambio, per la sua stessa architettura logica, non possiede alcun meccanismo interno per correggere questo sbilanciamento. L'equilibrio può essere ripristinato solo iniettando liquidità nel sistema dall'esterno del ciclo lavorativo, rendendo l'UBI non un'opzione politica, ma una **condizione matematica di sopravvivenza per il libero mercato stesso**.
-
----
 
 ### 2.4 I Costi di Frizione e l'Inefficienza Strutturale del Lavoro Biologico
 
