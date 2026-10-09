@@ -188,6 +188,46 @@ The real short-circuit of the capitalism-labor system is not the lack of goods, 
 
 Attempting to preserve jobs "by law" or punish automation forces the adoption of structural inefficiency, equivalent to banning tractors in agriculture to force millions to shovel soil by hand.
 
+---
+
+### 2.3 Dynamic Modeling of the Wage-Pool Collapse
+
+To understand the inevitability of this crisis, the labor market must be analyzed not as a static entity, but as a closed dynamic system governed by feedback loops. The paradox emerges when the microeconomic optimization of a single firm destroys the macroeconomic equilibrium of the entire system.
+
+#### 1. System Variables and the Substitution Condition
+In a market economy, the Aggregate Demand ($D$) that absorbs Production ($P$) relies almost entirely on the Aggregate Wage Pool ($W$).
+
+Let us define the marginal cost per unit of output:
+* $C_h$: Marginal cost of human labor (hard-capped at the bottom by the cost of biological sustenance).
+* $C_s$: Marginal cost of synthetic labor (bounded only by energy and hardware depreciation, trending toward zero).
+
+The transition triggers irreversibly the moment a critical threshold is crossed:
+$$C_s < C_h$$
+
+At this tipping point, a single company **must** replace the biological agent with the synthetic agent to remain competitive. This optimization is perfectly rational at the level of the individual economic actor.
+
+#### 2. The Macroeconomic Short-Circuit (Tragedy of the Commons)
+The flaw arises when this local optimization is applied on a global scale. If we formalize the Wage Pool ($W$) as the product of the number of employed humans ($N$) and the average wage ($S$), and assume Aggregate Demand ($D$) is a direct function of $W$:
+
+$$\lim_{C_s \to 0} N_{humans} \to 0 \implies W \to 0 \implies D \to 0$$
+
+While the system's productive capacity explodes toward infinity thanks to automation ($P \to \infty$), the market's absorption capacity collapses ($D \to 0$). Companies find themselves able to produce goods and services at near-zero cost, yet devoid of consumers possessing the liquidity required to purchase them.
+
+This is a classic **fatal negative feedback loop**:
+1. A company automates to cut costs and maximize profits.
+2. Displaced workers lose their income (contraction of $W$).
+3. Aggregate consumption drops drastically.
+4. The company, despite having minimized production costs, cannot sell its products and faces insolvency.
+
+#### 3. The Compensation Illusion and "New Jobs"
+Classical economics posits that innovation destroys old jobs but creates new, more complex ones (the Compensation Principle). This assumption relies on the historical fact that machines replaced only human *muscle*, leaving humans with a monopoly on *cognition* and *coordination*.
+
+With generalist AI and Embodied AI, this monopoly ceases to exist. Any "new job" created by technology (e.g., drone fleet management, prompt optimization, virtual world design) will inherently be **easier, faster, and cheaper to execute via a synthetic agent** than by retraining a human being from scratch.
+
+The free market, by its very logical architecture, possesses no internal mechanism to self-correct this imbalance. Equilibrium can only be restored by injecting liquidity into the system from outside the labor cycle. This makes UBI not merely a political option, but a **mathematical condition for the survival of the free market itself**.
+
+---
+
 # Section III: The Architecture of UBI and Technological Dividend
 
 ### 3.1 UBI as Systemic Infrastructure and Flourishing Dividend
