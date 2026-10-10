@@ -336,10 +336,40 @@ La Matrice $T_{\text{UBI}}$ riconfigura la fiscalità: non si tassano le persone
 
 ---
 
-### 3.3 Il Controllo dei Beni Anelastici e l'Automazione dei Servizi Primari
-Per evitare che l'erogazione di liquidità generi inflazione nei settori chiave, l'UBI deve basarsi sull'abbattimento strutturale dei costi di produxione dei beni primari.
+### 3.3 Meccanismi Antinflazionistici e Fornitura Pubblica Automatizzata (*Public Automated Provisioning*)
 
-L'applicazione dell'AI e della robotica all'agricoltura di precisione, alla generazione energetica (solare, nucleare, fusione) e all'edilizia prefabbricata robotizzata abbatterà il costo marginale di cibo, energia e abitazioni verso lo zero. Con beni di prima necessità quasi gratuiti, il potere d'acquisto dell'UBI erogato si moltiplica, rendendo il sistema immune da bolle speculative e finanziariamente sostenibile nel tempo.
+L'erogazione di un Reddito Universale di Base esclusivamente finanziario corre un rischio sistemico noto: la **trappola dell'inflazione sui beni anelastici**. Se l'iniezione di liquidità dell'UBI si scontra con mercati primari monopolizzati o speculativi (casa, energia, alimentazione, sanità), la rendita proprietaria assorbirà l'aumento di potere d'acquisto, annullando i benefici del dividendo tecnologico.
+
+Per rendere l'UBI un'infrastruttura d'emancipazione reale e a prova di bolla speculativa, il sistema deve integrare i protocolli di **Fornitura Pubblica Automatizzata (*Public Automated Provisioning*, PAP)**. L'obiettivo è spingere il costo marginale di produzione dei quattro pilastri della sussistenza biologica verso lo zero.
+
+---
+
+#### 1. Abitare: Edilizia Robotizzata e Sgancio dalla Speculazione
+Il costo dell'alloggio rappresenta la primaria voce di assorbimento del reddito. Il protocollo PAP per l'abitare azzera la rendita speculativa attraverso:
+* **Fabbricazione Modulare e Stampa 3D Robotizzata:** L'impiego di bracci robotici di cantiere e moduli prefabbricati abbatte il costo di costruzione per metro quadro dell'$80\%$ e riduce i tempi di cantiere da mesi a giorni.
+* **Diritto di Superficie su Suolo Pubblico:** L'assegnazione di alloggi ad alta efficienza energetica realizzati su suolo pubblico garantisce a ogni cittadino un'abitazione di qualità al puro costo di ammortamento manutentivo, disinnescando la bolla immobiliare privata.
+
+#### 2. Energia: Rete Autonoma e Costo Marginale Nullo
+L'energia è l'input primario di ogni attività economica. Il protocollo PAP energetico converge verso la sovranità pubblica della rete:
+* **Generazione a Densità Elevata:** Massificazione di impianti solari di nuova generazione, sistemi eolici integrati e reattori nucleari modulari (SMR/fissione IV gen e fusione).
+* **Smart Grid e Bilanciamento via Agentic AI:** Gestione decentralizzata della rete elettrica mediante agenti sintetici che ottimizzano l'accumulo e la distribuzione in tempo reale, azzerando gli sprechi e garantendo una quota base di energia gratuita erogata direttamente a ogni cittadino.
+
+#### 3. Alimentazione: Agricoltura di Precisione e Logistica Automatizzata
+L'accesso al cibo di alta qualità viene svincolato dalle oscillazioni dei mercati delle materie prime (*commodities*):
+* **Vertical Farming e Serre Idroponiche Robotizzate:** Produzione locale ad altissimo rendimento con consumo idrico ridotto del $95\%$ e azzeramento dei pesticidi, gestita da sensori IoT e sistemi di piantumazione/raccolta automatizzati.
+* **Logistica e Filiera Corta Algoritmica:** La distribuzione dei prodotti primari avviene tramite flotte di trasporto autonome, eliminando i margini di intermediazione speculativa tra produzione e consumo.
+
+#### 4. Sanità Aumentata e Diagnostica Preventiva Gratuita
+Il diritto alla salute viene protetto dall'estrazione di profitto farmacologico o assicurativo:
+* **Diagnostica Sintetica Omnipresente:** Modelli di visione e analisi molecolare ad accesso universale eseguono screening precoci (oncologici, cardiologici, genetici) a costo computazionale nullo sul dispositivo locale o nella clinica di quartiere.
+* **Scoperta Farmacologica ed Edilizia Sanitaria Automatizzata:** L'impiego di modelli di folding proteico e simulazione chimica riduce il tempo di sviluppo dei farmaci da decenni a settimane. La produzione di principi attivi fondamentali e dispositivi medici viene pubblicizzata e scalata via micro-fabbricate robotizzate locali.
+
+---
+
+#### Risultato di Sistema: Il Pavimento dell'Abbondanza (*Abundance Floor*)
+I protocolli di Fornitura Pubblica Automatizzata creano un **Pavimento dell'Abbondanza**: un livello base in cui cibo, casa, energia e sanità sono forniti come servizi pubblici quasi gratuiti e ad altissima qualità. 
+
+Di conseguenza, il potere d'acquisto dell'UBI finanziario viene preservato integralmente: il cittadino non deve usare il proprio Dividendo di Fioritura per "sopravvivere" o pagare affitti speculativi, ma è libero di allocarlo interamente per attività culturali, viaggi, progetti personali e consumi discrezionali.
 
 ---
 
