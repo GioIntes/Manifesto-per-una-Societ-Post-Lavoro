@@ -490,6 +490,50 @@ Decoupled from the necessity of monetization, human activity reorganizes around 
 
 3. **Political Decentralization and Active Participation:** Liberated from the exhausting daily production-consumption cycle, citizens regain the analytical clarity, time, and critical capacity necessary to participate directly in public governance and steering technology.
 
+---
+### 4.5 Post-Work Social Psychology and Intrinsic Motivation (Self-Determination Theory)
+
+The most subtle obstacle to a post-work transition is neither economic nor technological, but **psycho-cultural**. For centuries, industrial civilization has anchored individual identity, self-worth, and social status directly to one's occupation (*"what do you do for a living?"* as a proxy for *"who are you?"*). The prospect of full automation thus triggers an atavistic existential dread: the fear that, once freed from coerced labor, individuals will drift into apathy, anomic depression, and passive consumption.
+
+Contemporary social psychology refutes this deterministic outlook, demonstrating that the loss of wage labor is traumatic only within a paradigm that subordinates physical survival to employment.
+
+---
+
+#### 1. Deconstructing the Conditioning of "Alienated Labor"
+The psychological dependence on coerced labor is the result of long-standing historical conditioning, not an innate feature of human nature. Modern wage labor has operated predominantly on **extrinsic motivators** (working to avoid poverty, service debt, or conform to societal expectations).
+
+When a system deprives individuals of decision autonomy over their own time for 40–50 hours a week, their capacity for self-determination atrophies. Free-time apathy is not caused by the absence of a job, but is the symptomatic reaction to the sudden removal of an external coercive structure (*"decompression shock"*).
+
+---
+
+#### 2. The Framework of Self-Determination Theory (SDT)
+To design a functional post-work psychological architecture, we ground our methodology in the scientific framework of **Self-Determination Theory (Deci & Ryan)**. Psychological well-being, motivation, and human flourishing do not require submission to an employer, but rather the fulfillment of three basic psychological needs:
+
+~~~
+                  ┌─────────────────────────────────────────┐
+                  │     Human Flourishing (SDT)             │
+                  └────────────────────┬────────────────────┘
+                                       │
+         ┌─────────────────────────────┼─────────────────────────────┐
+         ▼                             ▼                             ▼
+┌──────────────────┐          ┌──────────────────┐          ┌──────────────────┐
+│    Autonomy      │          │    Competence    │          │   Relatedness    │
+│  (Self-Agency)   │          │ (Mastery/Skill)  │          │ (Community Bond) │
+└──────────────────┘          └──────────────────┘          └──────────────────┘
+~~~
+
+1. **Autonomy (Self-Agency):** The need to experience one's actions as self-authored rather than coerced by survival threats or economic leverage. A flourishing UBI restores 100% autonomy over one's life timeline.
+2. **Competence (Mastery):** The intrinsic drive to learn, master complex skills, and overcome intellectual, artistic, technical, or craft challenges. Decoupled from immediate marketability, individuals pursue mastery for the pure fulfillment of growth (e.g., open-source development, amateur scientific research, music, athletics).
+3. **Relatedness:** The need to connect, care for others, and belong to a community. In a post-work society, relatedness shifts from corporate hierarchy to voluntary networks, civic care, and active participation in the *polis*.
+
+---
+
+#### 3. From Extrinsic Motivation to Human Flourishing
+Emancipation from wage labor does not eliminate effort or discipline: **it shifts the locus of effort from external compulsion to internal drive**.
+
+Human beings are not inherently passive; they are active, meaning-seeking organisms. Once physical survival is guaranteed by the Abundance Floor and UBI, humanity's emotional and cognitive capital redirects from *competing for survival* to *the pursuit of meaning*. Individual worth ceases to be measured by revenue generated for a corporation and becomes anchored to scientific, artistic, philosophical, and human contributions to society.
+---
+
 # Section V: Call to Action and Rational Conclusion
 
 ### 5.1 Beyond Ideology: Governing the Transition with a Systems-Oriented Approach
