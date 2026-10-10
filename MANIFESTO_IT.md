@@ -458,6 +458,42 @@ Svincolata dalla necessità di monetizzazione, l'attività umana si riorganizza 
 3. **Decentralizzazione Politica e Partecipazione Attiva:** Liberato dal prostrante ciclo quotidiano produzione-consumo, il cittadino riacquista la lucidità analitica, il tempo e la capacità critica necessari per partecipare direttamente alla governance della cosa pubblica e alla direzione della tecnologia.
 
 ---
+### 4.5 Psicologia Sociale Post-Lavoro e Motivazione Intrinseca (Self-Determination Theory)
+
+L'ostacolo più sottile alla transizione post-lavoro non è economico o tecnologico, ma **psico-culturale**. Per secoli, la civiltà industriale ha fondato l'identità dell'individuo, l'autostima e lo status sociale sulla professione svolta (*"cosa fai nella vita?"* come sinonimo di *"chi sei?"*). La prospettiva dell'automazione totale genera quindi un vuoto esistenziale atavico: il timore che, svincolati dal lavoro coatto, gli individui scivolino nell'apatia, nella depressione da anomia e nell'esclusivo consumo passivo.
+
+La psicologia sociale contemporanea smentisce questa visione deterministica, dimostrando che la perdita del lavoro salariato è traumatica solo all'interno di un paradigma che subordina la sopravvivenza al salario.
+
+---
+
+#### 1. La De-costruzione del Condizionamento del "Lavoro Estraniato"
+La dipendenza psicologica dal lavoro coatto è l'effetto di un lungo condizionamento storico, non un tratto della natura umana. Il lavoro salariato della modernità ha operato prevalentemente su **motivazioni estrinseche** (lavorare per evitare la miseria, per pagare il mutuo, per conformarsi alle aspettative sociali). 
+
+Quando il sistema priva l'individuo dell'autonomia decisionale sul proprio tempo per 40-50 ore a settimana, la capacità di autodeterminazione si atrofizza. L'apatia da tempo libero non è una conseguenza della mancanza di lavoro, ma la reazione sintomatica all'improvviso svuotamento di una struttura coercitiva esterna (*"sindrome da decompressione"*).
+
+---
+
+#### 2. Il Modello della Self-Determination Theory (SDT)
+Per progettare un'architettura psicologica post-lavoro funzionale, ci affidiamo al quadro scientifico della **Self-Determination Theory (Deci & Ryan)**. La salute mentale, la motivazione e la fioritura dell'essere umano (*flourishing*) non richiedono la sottomissione a un datore di lavoro, ma il soddisfacimento di tre bisogni psicologici fondamentali:
+
+~~~
+                  ┌─────────────────────────────────────────┐
+                  │   Fioritura Psicologica (SDT)           │
+                  └────────────────────┬────────────────────┘
+                                       │
+         ┌─────────────────────────────┼─────────────────────────────┐
+         ▼                             ▼                             ▼
+┌──────────────────┐          ┌──────────────────┐          ┌──────────────────┐
+│    Autonomia     │          │    Competenza    │          │  Relazionalità   │
+│  (Self-Agency)   │          │ (Mastery/Skill)  │          │   (Relatedness)  │
+└──────────────────┘          └──────────────────┘          └──────────────────┘
+~~~
+
+1. **Autonomia (Self-Agency):** Il bisogno di percepire le proprie azioni come liberamente scelte e non eterodirette da necessità di sopravvivenza o ricatti economici. L'UBI di fioritura restituisce il 100% dell'autonomia sul proprio vettore temporale.
+2. **Competenza (Mastery):** Il bisogno intrinseco di apprendere, padroneggiare abilità complesse e superare sfide intellettuali, artistiche, tecniche o artigianali. Svincolato dalla monetizzabilità immediata, l'individuo cerca la maestria per la pura gioia del perfezionamento (es. programmazione open-source, ricerca scientifica amatoriale, musica, atletica).
+3. **Relazionalità (Relatedness):** Il bisogno di connettersi, prendersi cura e sentirsi parte attiva di una comunità. In una società post-lavoro, la relazionalità si sposta dai rapporti gerarchici aziendali alle reti di cooperazione volontaria, alla cura civica e all'impegno nella *polis*.
+
+---
 
 # Sezione V: Call to Action e Conclusione Razionale
 
