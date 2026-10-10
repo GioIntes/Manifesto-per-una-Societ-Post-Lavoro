@@ -429,11 +429,11 @@ L'UBI deve quindi essere dimensionato come un **Dividendo di Fioritura (*Flouris
 ### 4.2 La Riscrittura dell'Anatomia del Tempo Umano
 L'impatto culturale più profondo della rivoluzione tecnologica risiede nella **restituzione del tempo**. Per secoli, l'architettura della vita umana è stata subordinata alla vendita del proprio tempo in cambio della sopravvivenza:
 
-$$\text{Vita Umana (Novecento)} = \underbrace{\text{Formazione (20%)}}_{\text{Preparazione al lavoro}} + \underbrace{\text{Lavoro Coatto (60%)}}_{\text{Vendita del tempo per la sussistenza}} + \underbrace{\text{Inattività/Pensione (20%)}}_{\text{Decadimento}}$$
+$$\text{Vita Umana (Novecento)} = \underbrace{\text{Formazione (20\%)}}_{\text{Preparazione al lavoro}} + \underbrace{\text{Lavoro Coatto (60\%)}}_{\text{Vendita del tempo per la sussistenza}} + \underbrace{\text{Inattività/Pensione (20\%)}}_{\text{Decadimento}}$$
 
 Con l'automazione integrale, la robotica e l'UBI di fioritura, il vettore della vita individuale viene riconfigurato attorno all'autonomia decisionale:
 
-$$\text{Vita Umana (Post-Lavoro)} = \text{Autonomia Decisionale (100\%)} \longrightarrow \begin{cases} \text{Ricerca & Studio Scientifico} \\ \text{Espressione Artistica & Culturale} \\ \text{Volontariato & Contribuzione Sociale} \\ \text{Esplorazione, Mobilità & Svago} \end{cases}$$
+$$\text{Vita Umana (Post-Lavoro)} = \text{Autonomia Decisionale (100\%)} \longrightarrow \begin{cases} \text{Ricerca \& Studio Scientifico} \\ \text{Espressione Artistica \& Culturale} \\ \text{Volontariato \& Contribuzione Sociale} \\ \text{Esplorazione, Mobilità \& Svago} \end{cases}$$
 
 Il lavoro cessa di essere la misura del valore morale dell'individuo. La dignità personale si sposta dall'essere un *ingranaggio di produzione* all'essere un *agente consapevole, libero e attivo*.
 
