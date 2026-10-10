@@ -390,15 +390,47 @@ Consequently, the real purchasing power of the money-centric UBI is preserved 10
 
 ---
 
-### 3.4 Transport-as-a-Service (TaaS) and Urban Reconfiguration
+### 3.4 Transport-as-a-Service (TaaS) and Urban Logistics Modeling
 
-UBI should not finance the inefficiency of private ownership for complex material assets. The efficiency of robotics and AI reaches its full potential in moving from *asset ownership* to *on-demand access*:
+The private ownership model of mobility represents one of the most prominent structural inefficiencies of the 20th century: private automobiles sit idle for over 95% of their operational lifespan, occupying up to 30% of urban surface area purely for parking.
 
-* **Collapse of Transport Costs:** The convergence of Level-5 autonomous driving, electric propulsion, AI-driven predictive maintenance, and vehicle-to-vehicle (V2V) communication drops transport costs per kilometer to near zero. Accidents, insurance fees, and congestion plummet.
+In an infrastructure powered by automation and UBI, mobility transforms into a fully integrated public utility managed under a **Transport-as-a-Service (TaaS)** framework.
 
-* **Autonomous On-Demand Fleets:** Automobiles cease to be private assets sitting idle 95% of the time. They become low-cost services: a vehicle is summoned for the necessary route (including vacation trips); once the journey ends, the vehicle returns to the network for other users.
+---
 
-* **Underground Urban Infrastructure and Green Spaces:** Autonomous fleets recharge and park in underground hubs. Removing surface parking and private traffic reclaims immense urban space for parks, pedestrian zones, and community gathering hubs.
+#### 1. Traffic Flow Optimization via Multi-Agent Reinforcement Learning (MARL)
+Rather than relying on static traffic signals or uncoordinated human behavior, the autonomous vehicle fleet and road network are modeled as a **complex multi-agent system**:
+
+* **Dynamic Routing and Zero Congestion:** Local RL agents installed on vehicles and intersection nodes coordinate trajectories and speed in real time. The system minimizes aggregate network latency $L_{\text{network}}$ by coordinating traffic flows $f_e$ across road edges $e \in E$:
+
+$$L_{\text{network}} = \sum_{e \in E} f_e \cdot t_e(f_e)$$
+
+where $t_e(f_e)$ represents travel time as a function of instantaneous flow.
+* **Elimination of Traffic Lights:** Thanks to Vehicle-to-Everything ($V2X$) communication, intersections are navigated with millisecond synchronization without requiring complete stops, eliminating the energy inefficiencies of constant acceleration and braking cycles.
+
+---
+
+#### 2. Dynamic Inductive Charging Infrastructure (*In-Motion Wireless Charging*)
+The primary bottleneck for electric fleets has historically been static charging downtime and heavy battery packs. The TaaS protocol resolves this friction by embedding charging directly into the roadway pavement:
+
+* **High-Efficiency Inductive Pads:** Inductive coils embedded beneath high-throughput lanes and transit stops transfer power to moving vehicles via magnetic resonance.
+* **Vehicle Weight Reduction:** Continuous dynamic charging allows vehicle battery capacity to be reduced by $60\text{--}70\%$. Lighter vehicles require significantly less energy to operate, further driving down energy consumption per kilometer.
+
+---
+
+#### 3. Urban Space Reconfiguration and Underground Logistics
+The convergence of Level-5 autonomous driving, TaaS, and predictive logistics fundamentally reshapes urban architecture:
+
+1. **Reclamation of Surface Space:** Eliminating on-street parking frees $70\%$ to $90\%$ of urban public land, which is immediately repurposed for civic parks, pedestrian zones, PAP housing, and micro-mobility lanes.
+2. **Sub-Urban Staging and Maintenance Hubs:** Off-peak TaaS fleets automatically route to underground or perimeter hubs for AI-driven predictive maintenance, automated sanitation, and robotic repair.
+3. **Smart Last-Mile Logistics:** Freight and primary goods deliveries are decoupled from passenger traffic, executed during off-peak windows or routed through automated underground conduits and terrestrial micro-drones.
+
+---
+
+#### Systemic Result: Collapse of Transport Costs ($\text{OpEx} \to 0$)
+The integration of electric propulsion, dynamic inductive charging, and MARL coordination drops mobility costs per passenger-kilometer by over 90% compared to private vehicle ownership. Transit becomes a seamless extension of UBI: moving within and between urban centers ceases to be an economic burden, guaranteeing universal freedom of mobility.
+
+---
 
 ### 3.5 The Contribution Economy and Reciprocal Voluntarism
 
