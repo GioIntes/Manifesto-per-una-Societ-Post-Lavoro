@@ -373,21 +373,45 @@ Di conseguenza, il potere d'acquisto dell'UBI finanziario viene preservato integ
 
 ---
 
-### 3.4 Mobilità come Servizio (TaaS) e Riconfigurazione Urbanistica
-L'UBI non deve finanziare l'inefficienza del possesso privato di beni materiali complessi. L'efficienza della robotica e dell'AI si esprime al massimo potenziale con il passaggio dalla *proprietà dell'asset* all'*accesso su richiesta*:
+### 3.4 Transport-as-a-Service (TaaS) e Modellizzazione della Logistica Urbana
 
-* **Crollo dei Costi di Trasporto:** La convergenza tra guida autonoma di livello 5, motorizzazione elettrica, manutenzione predittiva guidata da AI e comunicazione veicolo-veicolo (V2V) azzera quasi del tutto il costo della mobilità per chilometro. Crollano gli incidenti, i costi assicurativi e il traffico.
-* **Flotte Autonomous On-Demand:** L'automobile cessa di essere un bene di proprietà fermo per il 95% del tempo. Diventa un servizio a costo irrisorio: si richiede il veicolo per la tratta necessaria (anche per spostamenti di vacanza o viaggi); completata la corsa, il mezzo torna nella rete per altri utenti.
-* **Spazio Urbano Interrato e Verde Pubblico:** Le flotte autonome si ricaricano e stazionano in hub sotterranei. La scomparsa dei parcheggi di superficie e del traffico privato libera enormi superfici urbane, riconvertite in parchi, spazi pedonali e centri di aggregazione sociale.
+Il modello privatistico della mobilità basato sulla proprietà del veicolo individuale rappresenta una delle inefficienze strutturali più marcate del Novecento: le automobili rimangono inutilizzate per oltre il $95\%$ della loro vita utile, occupando fino al $30\%$ della superficie delle aree urbane per il solo stazionamento.
+
+In un'infrastruttura guidata da automazione e UBI, la mobilità si trasforma in un servizio pubblico e integrato gestito in regime di **Transport-as-a-Service (TaaS)**.
 
 ---
 
-### 3.5 L'Economia della Contribuzione e del Volontariato Reciproco
-Nelle attività in cui il valore risiede nella presenza, nell'empatia o nell'artigianalità umana (ristorazione di qualità, accoglienza, cura della comunità, arte):
+#### 1. Ottimizzazione dei Flussi di Traffico via Apprendimento per Rinforzo Multi-Agente (MARL)
+Invece di affidarsi a segnali stradali statici o al comportamento disorganizzato di guidatori umani, la flotta di veicoli autonomi e la rete viaria sono modellate come un **sistema complesso multi-agente**:
 
-* **Superamento del Ricatto Economico:** Chi opera in questi settori non lo fa più per la sopravvivenza o sotto la minaccia del licenziamento.
-* **Volontariato e Turnazione Collaborativa:** Liberato dall'obbligo di lavorare 40-50 ore a settimana, l'individuo dedica parte del proprio tempo libero a forme di **volontariato e contribuzione comunitaria ad erogazione modulare e non pesante**.
-* **Il Lavoro come Scelta di Valore:** La prestazione d'opera umana cambia natura ontologica: non è più vendita del proprio tempo per un salario, ma espressione di passione, ricerca di maestria, status sociale e partecipazione attiva alla polis.
+* **Instradamento Dinamico e Zero Congestione:** Agenti RL locali installati sui veicoli e sui nodi di intersezione coordinano le traiettorie e la velocità in tempo reale. Il sistema minimizza la latenza di rete aggregata $L_{\text{rete}}$ coordinando i flussi di traffico $f_e$ sugli archi viari $e \in E$:
+
+$$L_{\text{rete}} = \sum_{e \in E} f_e \cdot t_e(f_e)$$
+
+dove $t_e(f_e)$ rappresenta il tempo di percorrimento in funzione del flusso istantaneo.
+* **Scomparsa dei Semafori e Intersezioni Fluide:** Grazie alla comunicazione Veicolo-con-Tutto ($V2X$), le intersezioni vengono attraversate con sincronizzazione al millisecondo senza necessità di arresto completo, azzerando le fasi di minimo rendimento dei motori fisici in accelerazione/frenata.
+
+---
+
+#### 2. Infrastruttura di Ricarica Induttiva Dinamica (*In-Motion Wireless Charging*)
+Il collo di bottiglia principale delle flotte elettriche è sempre stato il tempo di fermo per la ricarica in colonnina e il peso sproporzionato dei pacchi batteria. Il protocollo TaaS risolve questa frizione integrando la ricarica direttamente nel manto stradale:
+
+* **Piastre Induttive ad Alta Efficienza:** L'installazione di bobine induttive annegate nell'asfalto lungo le corsie ad alto scorrimento e i nodi di fermata eroga energia al veicolo mentre è in movimento via risonanza magnetica.
+* **Riduzione del Peso dei Veicoli:** Potendo accedere alla ricarica continua durante il tragitto, la capacità delle batterie di bordo può essere ridotta del $60\text{--}70\%$. Veicoli più leggeri richiedono meno energia per essere spostati, abbattendo ulteriormente il consumo per chilometro.
+
+---
+
+#### 3. Riconfigurazione dello Spazio Urbano e Logistica Sotterranea
+La convergenza tra guida autonoma di Livello 5, TaaS e logistica predittiva trasforma radicalmente l'anatomia della città:
+
+1. **Liberazione del Suolo Superficiale:** La scomparsa della necessità di parcheggio su strada libera dal $70\%$ al $90\%$ dello spazio pubblico urbano, immediatamente riconvertito in parchi civici, spazi pedonali, edilizia PAP e piste di mobilità micro-elettrica.
+2. **Hub di Stazionamento e Manutenzione Sub-Urbani:** Le flotte TaaS fuori servizio o in fase di manutenzione preventiva guidata da AI si ritirano in hub automatizzati sotterranei o perimetrali, dotati di stazioni di sanificazione e riparazione robotizzata.
+3. **Logistica dell'Ultimo Miglio Intelligente:** Le consegne di merci e beni primari vengono disaccoppiate dal traffico passeggeri e gestite in fasce orarie a bassa intensità o convogliate tramite micro-droni terrestri e condotte sotterranee automatizzate.
+
+---
+
+#### Risultato Sistemico: Crollo dei Costi di Trasporto ($\text{OpEx} \to 0$)
+L'integrazione di propulsione elettrica, ricarica induttiva e coordinamento MARL riduce il costo della mobilità per passeggero-chilometro di oltre il $90\%$ rispetto alla proprietà privata del veicolo. Il trasporto diventa un'estensione fluida e trasparente dell'UBI: muoversi all'interno del tessuto urbano o interurbano non costituisce più un costo significativo, garantendo il pieno esercizio del diritto alla mobilità.
 
 ---
 
