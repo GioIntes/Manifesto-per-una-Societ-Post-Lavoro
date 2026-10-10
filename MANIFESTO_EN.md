@@ -456,15 +456,11 @@ UBI must therefore be sized as a **Flourishing Dividend**, adequate to guarantee
 
 The deepest cultural impact of the technological revolution lies in the **restoration of time**. For centuries, the architecture of human life has been subordinated to selling time in exchange for survival:
 
-$$
-\text{Human Life (20th Century)} = \underbrace{\text{Education (20\%)}}_{\text{Work preparation}} + \underbrace{\text{Forced Labor (60\%)}}_{\text{Selling time for survival}} + \underbrace{\text{Inactivity/Retirement (20\%)}}_{\text{Decline}}
-$$
+$$\text{Human Life (20th Century)} = \underbrace{\text{Education (20\%)}}_{\text{Work preparation}} + \underbrace{\text{Forced Labor (60\%)}}_{\text{Selling time for survival}} + \underbrace{\text{Inactivity/Retirement (20\%)}}_{\text{Decline}}$$
 
 With full automation, robotics, and a flourishing UBI, the vector of individual life is reconfigured around decision autonomy:
 
-$$
-\text{Human Life (Post-Work)} = \text{Decision Autonomy (100\%)} \longrightarrow \begin{cases} \text{Scientific Research \& Study} \\ \text{Artistic \& Cultural Expression} \\ \text{Voluntarism \& Social Contribution} \\ \text{Exploration, Mobility \& Leisure} \end{cases}
-$$
+$$\text{Human Life (Post-Work)} = \text{Decision Autonomy (100\%)} \longrightarrow \begin{cases} \text{Scientific Research \& Study} \\ \text{Artistic \& Cultural Expression} \\ \text{Voluntarism \& Social Contribution} \\ \text{Exploration, Mobility \& Leisure} \end{cases}$$
 
 Work ceases to be the metric of an individual's moral worth. Personal dignity shifts from being a *production cog* to an *aware, free, and active agent*.
 
